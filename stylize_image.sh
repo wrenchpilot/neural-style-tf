@@ -35,7 +35,7 @@ style_dir=$(dirname "$style_image" )
 style_filename=$(basename "$style_image")
 
 echo "Rendering stylized image. This may take a while..."
-python neural_style.py \
+python3 neural_style.py \
 --content_img "${content_filename}" \
 --content_img_dir "${content_dir}" \
 --style_imgs "${style_filename}" \
