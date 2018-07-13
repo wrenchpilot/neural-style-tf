@@ -3,3 +3,10 @@ image_output/
 video_input/
 video_output/
 *.mat
+/styles/ben_giles.png
+/styles/dark_matter_bw.png
+/styles/flowers_crop.jpg
+/styles/lion.jpg
+/styles/oil_crop.jpg
+/styles/primus.jpg
+/styles/science.jpg
