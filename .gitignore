@@ -1,0 +1,5 @@
+image_input/
+image_output/
+video_input/
+video_output/
+*.mat
